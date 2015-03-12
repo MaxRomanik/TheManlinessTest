@@ -1,0 +1,22 @@
+{
+  "name": "TheManlinessTest",
+  "version": "0.0.0",
+  "description": "What kind of Man are You?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxRomanik/TheManlinessTest.git"
+  },
+  "author": "Max Romanik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxRomanik/TheManlinessTest/issues"
+  },
+  "homepage": "https://github.com/MaxRomanik/TheManlinessTest",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
